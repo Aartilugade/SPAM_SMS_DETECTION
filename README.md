@@ -1,1 +1,1 @@
-# SPAM_SMS_DETECTION
+Spam SMS detection is a critical area in communication security that focuses on identifying and filtering out unwanted and potentially harmful text messages. With the proliferation of mobile communication, the incidence of spam messages—ranging from unsolicited advertisements to phishing attempts—has significantly increased, posing threats to users' privacy, security, and overall user experience.# SPAM_SMS_DETECTION
